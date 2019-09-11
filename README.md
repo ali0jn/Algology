@@ -1,1 +1,2 @@
 # Algology
+The goal of this analysis is to explore machine learning-based regression models to  automatically predict the pain level changes of patients with chronic back and/or shoulder pain. Pain management is vital to improve the quality of life by preventing sleeplessness, and increasing the ability to think and function properly. Such an analysis is intended to result in identifying the amount of right drugs and techniques needed for pain management.
